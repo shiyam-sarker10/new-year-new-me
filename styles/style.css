@@ -49,5 +49,52 @@ padding:20px 0;
     display: flex;
     justify-content: right;
 }
+/* main start  */
+.main{
+    max-width:1140px;
+    margin:auto;
+}
+.section-container{
+    display: flex;
+    gap: 120px;
+    align-items: center;
+    margin:150px 0px;
+}
+.section-img{
+    width:450px;
+    
+}
+.section-text{
+    width: 50%;
+}
+.section-title{
+color: #151414;
+font-size: 40px;
+font-weight: 700;
+padding:30px 0;
+}
+.section-description{
+color:#444343;
+line-height: 26px;
+width:55%;
 
+}
+.section-list{
+    padding: 20px 0px ; 
+}
 
+.section-list-item{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding:8px 0px ; 
+    
+}
+.check{
+    margin-right:5px;
+}
+/* my plan section started  */
+.my-plan-header{
+    width:20%;
+    margin: auto;
+}
